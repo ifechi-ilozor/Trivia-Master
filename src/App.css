@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  color: #2308bf;
+  font-family: monospace;
 }
 
 .App-logo {
@@ -19,4 +21,30 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.App ul {
+  background-image: url("https://cdn.pixabay.com/photo/2016/02/09/05/31/blue-1188343_960_720.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.App li {
+  list-style: none;
+  display: table;
+  padding-top: 0.4vh;
+  padding-bottom: 0.4vh;
+  text-align: left;
+  font-family: Verdana;
+  font-size: 1.2vmax;
+}
+
+li:hover {
+  background-color: #0d00ff;
+}
+
+#res {
+  color: #08fffb;
+  font-weight: bolder;
 }
