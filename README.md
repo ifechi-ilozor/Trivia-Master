@@ -4,12 +4,12 @@
 
 #### Please 1.) Open in Chrome and 2.) Load Unsafe Scripts
 
-Because this site requires loading data fetched from the jservice.io API, make sure to allow Loading of Unsafe Scripts in Chrome in order to see the results. When you open the link, on the right end of the search bar, there is a shield with a little red X. Click on it and Load Unsafe Scripts.
+Because this site requires loading data fetched from the jservice.io API, make sure to allow Loading of Unsafe Scripts in Chrome in order to see the results. When you open the link, on the right end of the search bar, there is a shield with a little red X. Click on it and Load Unsafe Scripts. Alternatively, click on the three dots forming a vertical line on the rightmost side of Chrome, and click Settings. At the bottom of Settings, for Insecure content, switch from Block to Allow.
 
 
-## Capabilities:
+## Specifications:
 
-- Can refresh the page to get a new batch of 100 random clues.
+- Refresh the page to get a new batch of 100 random clues.
 
 - Search by question title by default, but one can switch search criteria.
 
