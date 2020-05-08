@@ -59,26 +59,3 @@ class List extends Component {
 }
 
 export default List;
-
-/*class App extends React.Component {
-  constructor() {
-    super();
-    this.state = {
-      showPopup: false
-    };
-  }
-  togglePopup() {
-    this.setState({
-      showPopup: !this.state.showPopup
-    });
-  }
-  render() {
-    return (
-      <div className='app'>
-        <button onClick={this.togglePopup.bind(this)}>show popup</button>
-        <button onClick={() => {alert('woooooooot?');}}>try me when popup is open</button>
-        {this.state.showPopup ? <Popup text='Close Me' closePopup={this.togglePopup.bind(this)}/> : null}
-      </div>
-    );
-  }
-};*/
